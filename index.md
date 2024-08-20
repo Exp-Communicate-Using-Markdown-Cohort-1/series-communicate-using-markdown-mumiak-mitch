@@ -7,3 +7,9 @@
 
 ### Adding an image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+### Commands
+```
+$ git clone
+git command for cloning a repository
+```
